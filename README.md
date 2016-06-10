@@ -40,3 +40,14 @@ Tag
   1. AndroidTagGroup :four_leaf_clover:A beautiful android tag group widget.
       https://github.com/2dxgujun/AndroidTagGroup 
   2. https://github.com/whilu/AndroidTagView
+  3. 
+  
+Form Validation
+https://github.com/ragunathjawahar/android-saripaar
+
+
+SocialNetworks
+
+    AndroidSocialNetworks Library for easy work with Facebook, Twitter, LinkedIn and Google on Android
+    https://github.com/antonkrasov/AndroidSocialNetworks#license
+
