@@ -51,3 +51,9 @@ SocialNetworks
     AndroidSocialNetworks Library for easy work with Facebook, Twitter, LinkedIn and Google on Android
     https://github.com/antonkrasov/AndroidSocialNetworks#license
 
+UltimateRecyclerView is a RecyclerView(advanced and flexible version of ListView) with pulling to refresh, loading more, swiping to dismiss, draging and drop, animations ,sticky header,show or hide toolbar and FAB when scrolling and many other features.You can use it just like RecyclerView.
+https://github.com/cymcsg/UltimateRecyclerView
+
+
+UltimateAndroid is a rapid development framework for developing apps.UltimateAndroid framework contains many features like View Injection,ORM,Asynchronous Networking and Image Loader,User scenario testing,over 100 Ui effects etc.And there are also many useful features like WebViewUtils,DaoUtils,Https Utils,CryptographyUtils,FileUploadUtils etc.The framework will be added more feature in the future.
+https://github.com/cymcsg/UltimateAndroid
