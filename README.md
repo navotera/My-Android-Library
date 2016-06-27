@@ -65,3 +65,6 @@ Easy Recycler View
 Encapsulate many API about RecyclerView into the library,such as arrayAdapter,pull to refresh,auto load more,no more and error in the end,header&footer.
 The library uses a new usage of ViewHolder,decoupling the ViewHolder and Adapter.
 https://github.com/Jude95/EasyRecyclerView
+
+Powerful and flexible RecyclerAdapter Please feel free to use this.(Love can be a Star)
+https://github.com/CymChad/BaseRecyclerViewAdapterHelper
