@@ -57,3 +57,11 @@ https://github.com/cymcsg/UltimateRecyclerView
 
 UltimateAndroid is a rapid development framework for developing apps.UltimateAndroid framework contains many features like View Injection,ORM,Asynchronous Networking and Image Loader,User scenario testing,over 100 Ui effects etc.And there are also many useful features like WebViewUtils,DaoUtils,Https Utils,CryptographyUtils,FileUploadUtils etc.The framework will be added more feature in the future.
 https://github.com/cymcsg/UltimateAndroid
+
+
+
+
+Easy Recycler View 
+Encapsulate many API about RecyclerView into the library,such as arrayAdapter,pull to refresh,auto load more,no more and error in the end,header&footer.
+The library uses a new usage of ViewHolder,decoupling the ViewHolder and Adapter.
+https://github.com/Jude95/EasyRecyclerView
